@@ -4,8 +4,9 @@
 http://45.226.28.9:8085/cloud_2/El.robo.del.siglo.2020.720.lat.mp4
 #https://dl.dropboxusercontent.com/s/u2s8jabw42d058v/El.robo.del.siglo.mp4
 
-#EXTINF:-1 tvg-logo="", La ultima Bala
+#EXTINF:-1 tvg-logo="https://www.peelink2.com/wp-content/uploads/2026/09/LA-ULTIMA-BALA-768x1024.webp" group-title="Película" La ultima Bala
 https://lkhjerbhye3wjkhoduh5xiczuvd.lol/stream/Nbek885PFe3xC0UuFySziQ/hjkrhuihghfvu/1792043878/43117108/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjZiYzE4N2ItYzQ5Yy00ZmIxLTg5YTQtMGI3NzMzMWI5MjBjXkEyXkFqcGc@._V1_.jpg" group-title="Película",Homo Argentum (2025)
 http://45.226.28.9:8085/cloud_1/Homo.Argentum.2025.720.lat.mp4
 
