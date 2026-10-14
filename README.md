@@ -1,7 +1,4 @@
 #EXTM3U
-
-###### Películas ######
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/05/10/49/3147329.jpg" group-title="Película",El Robo del Siglo (2020)
 http://45.226.28.9:8085/cloud_2/El.robo.del.siglo.2020.720.lat.mp4
 #https://dl.dropboxusercontent.com/s/u2s8jabw42d058v/El.robo.del.siglo.mp4
